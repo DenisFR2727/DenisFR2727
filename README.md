@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Denis
+### Hi there 👋, I'm Denys
 
 ### I'm a FrontEnd Developer
 - I like to write code
