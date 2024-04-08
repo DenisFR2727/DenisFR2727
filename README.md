@@ -13,5 +13,4 @@
 <img align="left" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="VS" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/nolan/64/brackets-ide.png"/>
-<img align="left" alt="NodeJS" src="https://icons8.com/icon/9MR7wJXKcELM/typescript" />
-<a  href="https://icons8.com/icon/9MR7wJXKcELM/typescript">TypeScript</a> icon by <a href="https://icons8.com">Icons8</a>
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-filled-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-filled-tal-revivo"/>
